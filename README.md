@@ -45,9 +45,5 @@
 </span>
 <h2 id="-here-is-a-random-joke-thatll-make-you-laugh">😂 Here is a random joke that’ll make you laugh!</h2>
 <p><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"></p>
-<h2 id="connect-with-me">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
-<p><a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40"></a>
-<a href="https://instagram.com/hridoyalhazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40"></a>
-<a href="https://github.com/ImStellarDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ImStellarDev" height="30" width="40"></a></p>
 <br>
 <hr>
