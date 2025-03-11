@@ -2,7 +2,7 @@
 <p>I’m Patryk, a self-taught software developer from Poland born on 20.04.2007. Currently studying as a Programming Technician, I love learning new technologies and languages. Coding is my passion, and I’m always eager to grow and take on new challenges.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImStellarDev" alt="ImStellarDev"> </p>
 <ul>
-<li>🌱 I’m currently learning ** MongoDB, SQLite, Kotlin, Rust **</li>
+<li>🌱 I’m currently learning ** MongoDB, SQLite, Kotlin **</li>
 <li>👯 I’m looking to collaborate on Software Development Related Projects **</li>
 <li>⚡ Fun fact: I love playing video games.</li>
 </ul>
